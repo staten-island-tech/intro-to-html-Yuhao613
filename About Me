@@ -6,15 +6,25 @@
     <title>Website</title>
 </head>
 <body>
-    <h1>About Me</h1>
+    <h1>About Me Project</h1>
     <h2>Yuhao Huang</h2>
-    <p>I like volleyball and 8 ball. I got pooped on by seagulls twice. And I like to spend money on food. I like to spend time with my lovely friends.</p>
+    <p>My birthday is on March 25th. My height is 4'11 and weighs 151 pounds. My blood type is B. I never took any computer science classes. I eat the school lunch even though it upsets my stomach. One time I got lost in the middle of Miller Field because it was so dark. I often sleep right when I get home; then when I wake up at like 8 to 9 PM, I start crashing out since I thought it's the morning.</p>
+    <p>My hobbies include:</p>
     <ul>
-        <li>Korean BBQ</li>
-        <li>Ice Rice</li>
-        <li>Chipotle</li>
+        <li>Volleyball</li>
+        <li>8 Ball</li>
+        <li>Video Games</li>
     </ul>
+    <p>Fun fact about me:</p>
     <ol>
-        <li>William Liang</li>
-        <li>Weiming Weng</li>
+        <li>Seagulls pooped on me twice</li>
+        <li>I spent $3,000 on food monthly</li>
+        <li>I have a 500 losing streak on word hunt</li>
     </ol>
+    <a href="https://www.mcdonalds.com/us/en-us.html">I love McDonalds</a>
+    <img
+    src="https://media.tenor.com/bZ8MQgJrwwYAAAAM/spanish.gif"
+    alt="Nugget"
+    />
+</body>
+</html>
