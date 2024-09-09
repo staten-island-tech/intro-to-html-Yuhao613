@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website</title>
+</head>
+<body>
+    <h1>About Me</h1>
+    <h2>Yuhao Huang</h2>
+    <p>I like volleyball and 8 ball. I got pooped on by seagulls twice. And I like to spend money on food. I like to spend time with my lovely friends.</p>
+    <ul>
+        <li>Korean BBQ</li>
+        <li>Ice Rice</li>
+        <li>Chipotle</li>
+    </ul>
+    <ol>
+        <li>William Liang</li>
+        <li>Weiming Weng</li>
+    </ol>
